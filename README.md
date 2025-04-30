@@ -1,2 +1,100 @@
-# landing_page
- Welcome to My Portfolio! 🌟  Hi there! 👋 I'm **[Your Name]**, an experienced Python developer with a passion for **Artificial Intelligence**, **Web Development**, and **Creative Problem Solving**. I love to code, program, and build solutions that make a difference. If you're looking for a Python developer who can bring your ideas to life, you're in the right place!  ---  ## 🚀 About Me  - 💻 **Python Developer** with expertise in web scraping, data analysis, and backend development. - 🤖 Currently advancing my skills in **Artificial Intelligence** and **Machine Learning**. - 🎯 Passionate about solving complex problems and delivering high-quality solutions. - 🌱 Always learning and exploring new technologies to stay ahead in the tech world.  ---  ## 🛠️ My Skills  - **Programming Languages**: Python, JavaScript, HTML, CSS - **Frameworks & Libraries**: Flask, Django, Pandas, NumPy, BeautifulSoup - **Tools**: Git, Docker, Jupyter Notebooks, Visual Studio Code - **Specialties**: Web Scraping, Data Analysis, API Development, AI/ML  ---  ## 📂 My Projects  Here are some of my favorite projects:  1. **[Web Scraping Project](web-scraping-project/README.md)**      A Python-based project to scrape and process data from websites.      *Tech Stack*: Python, BeautifulSoup, Requests      [View Repository](web-scraping-project)  2. **[Data Analysis with Pandas](pandas.ipynb)**      A Jupyter Notebook showcasing data analysis techniques using Pandas.      [View Notebook](pandas.ipynb)  3. **[AI-Powered Chatbot](#)** *(Coming Soon)*      A chatbot powered by AI to assist users with their queries.      *Tech Stack*: Python, TensorFlow, Flask    ---  ## 🌐 Connect with Me  Let's connect and collaborate!   Click on the icons below to visit my profiles:  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)   [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  ---  ## 📧 Contact Me  Feel free to reach out for freelance opportunities or collaborations:  - **Email**: [your.email@example.com](mailto:your.email@example.com) - **Phone**: +1 (123) 456-7890  ---  ## 🎨 Fun Facts About Me  - I love exploring **AI advancements** and experimenting with **neural networks**. - When I'm not coding, you can find me reading tech blogs or playing chess ♟️. - I believe in continuous learning and sharing knowledge with the community.  ---  ## ⭐ Testimonials  > "An exceptional Python developer with a knack for solving complex problems."   > — *Client A*  > "Delivered high-quality work on time and exceeded expectations."   > — *Client B*  ---  ## 📈 GitHub Stats  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  ---  Thank you for visiting my portfolio! Feel free to explore and connect with me. Let's build something amazing together! 🚀
+# 🌟 Welcome to My Portfolio - `landing_page`
+
+Hi there! 👋 I'm **[Your Name]**, a passionate and experienced **Python Developer** with expertise in **Artificial Intelligence**, **Web Development**, and **Creative Problem Solving**. 
+
+Whether you're here to explore my projects or looking for someone to bring your ideas to life — **you’re in the right place**!
+
+---
+
+## 🚀 About Me
+
+- 💻 Skilled in **web scraping**, **data analysis**, and **backend development** using Python.
+- 🤖 Currently diving deeper into **Artificial Intelligence** and **Machine Learning**.
+- 🎯 Passionate about building solutions that solve real-world problems.
+- 🌱 A lifelong learner who loves exploring new tools and technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category            | Tools & Technologies |
+|---------------------|----------------------|
+| **Languages**       | Python, JavaScript, HTML, CSS |
+| **Frameworks**      | Flask, Django        |
+| **Libraries**       | Pandas, NumPy, BeautifulSoup |
+| **Dev Tools**       | Git, Docker, VS Code, Jupyter |
+| **Specialties**     | Web Scraping, API Development, Data Analysis, AI/ML |
+
+---
+
+## 📂 Featured Projects
+
+Here are some of my favorite works:
+
+### 🔹 [Web Scraping Project](web-scraping-project/README.md)
+- **Description**: A Python tool to extract structured data from websites.
+- **Tech Stack**: Python, BeautifulSoup, Requests  
+➡️ [View Repository](web-scraping-project)
+
+---
+
+### 🔹 [Data Analysis with Pandas](pandas.ipynb)
+- **Description**: Interactive notebook showcasing data cleaning and analysis techniques.
+➡️ [View Notebook](pandas.ipynb)
+
+---
+
+### 🔹 AI-Powered Chatbot *(Coming Soon 🚧)*
+- **Description**: Smart chatbot that answers user queries using AI.
+- **Tech Stack**: Python, TensorFlow, Flask
+
+---
+
+## 🌐 Connect with Me
+
+Let's connect and collaborate! 🔗
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+
+---
+
+## 📧 Contact Me
+
+Interested in working together? Let’s talk!
+
+- 📬 **Email**: [your.email@example.com](mailto:your.email@example.com)
+- 📞 **Phone**: +1 (123) 456-7890
+
+---
+
+## 🎨 Fun Facts
+
+- 🧠 I love building and experimenting with **neural networks**.
+- ♟️ When not coding, I enjoy reading tech blogs or playing chess.
+- 🙌 I believe in **continuous learning** and contributing to the dev community.
+
+---
+
+## ⭐ Testimonials
+
+> "An exceptional Python developer with a knack for solving complex problems."  
+> — *Client A*
+
+> "Delivered high-quality work on time and exceeded expectations."  
+> — *Client B*
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 🙏 Thanks for Visiting!
+
+Feel free to explore, connect, and reach out.  
+Let’s **build something amazing together**! 🚀

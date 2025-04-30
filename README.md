@@ -8,8 +8,6 @@
 
 ---
 
-## 📂 Featured Projects
-
 ### 🔹 [Web Scraping Project](web-scraping-project/README.md)
 - **What**: High-performance scraper extracting dynamic site data.
 - **How**: Scrapy + Selenium + AWS Lambda → robust, headless concurrency.

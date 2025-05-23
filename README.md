@@ -40,6 +40,5 @@
 ---
 
 - **Email**: [aakarsh_jain@outlook.com](mailto:aakarsh_jain@outlook.com)  
-- **Phone**: +91 85709 35886
 
 ---
